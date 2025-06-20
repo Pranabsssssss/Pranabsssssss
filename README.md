@@ -1,4 +1,10 @@
-<h1 align="center">Hi, I'm Pranab Saini 👋</h1>
+<h1 align="center">
+  Hi, I'm Pranab Saini 👋
+</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="wave" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%7C+UI/UX+Designer;Founder+%2F+CEO+of+SMG+Interactive;Building+Modern+Web+Infrastructure+%7C+Clean+Design+%2B+Strong+Code" alt="Typing SVG" />
@@ -27,23 +33,12 @@ Currently serving as the **CEO of [SMG Interactive](https://smgin.me)**, I lead 
 
 ### 🌐 Websites I’ve Built
 
-#### 🔷 [SMG Interactive](https://smgin.me)  
-Official digital identity for SMG Interactive — a bold and scalable agency website with a powerful design system and CMS.
-
-#### 🔷 [TechForge](https://tforge.me)  
-A modern tech-focused platform for product ideation and development resources.
-
-#### 🔷 [Academic Elitez](https://acelite.me)  
-A clean, purpose-built educational platform to streamline learning for schools and coaching hubs.
-
-#### 🔷 [Personal Website](https://pranab.me)  
-My digital playground — portfolio, insights, experiments, and notes on web tech and design.
-
-#### 🔷 [ASOSE RPVV, Sec-10](https://asose.me)  
-School website designed with simplicity, performance, and accessibility in mind.
-
-#### 🔷 [Yuzone](https://yuzone.me)  
-Entertainment and media site built with modular CMS blocks, fast navigation, and bold UI to match the energy of the content.
+- ✨ [**SMG Interactive**](https://smgin.me) – Digital agency brand site with a robust design system and CMS.
+- 🎯 [**TechForge**](https://tforge.me) – Technology platform for product incubation and dev tooling.
+- 🎓 [**Academic Elitez**](https://acelite.me) – Education portal focused on clarity and smart delivery.
+- 💻 [**Personal Website**](https://pranab.me) – Portfolio, blog, and project hub.
+- 🏫 [**ASOSE RPVV, Sec-10**](https://asose.me) – Institutional website built for simplicity and performance.
+- 🎬 [**Yuzone**](https://yuzone.me) – Entertainment/media portal with bold UI and CMS-backed architecture.
 
 ---
 
@@ -53,14 +48,18 @@ Entertainment and media site built with modular CMS blocks, fast navigation, and
   <img src="https://github-readme-stats.vercel.app/api?username=pranabsssssss&show_icons=true&theme=onedark&hide_rank=true" alt="GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pranabsssssss&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
+
 ---
 
 ### 🧠 Currently Exploring
 
-- Edge caching & SSR on Vercel + Cloudflare Workers  
-- SEO architecture and structured content pipelines  
-- Scalable component systems with Headless UI  
-- Emerging tools: `tRPC`, `Bun`, `PlanetScale`, `Payload CMS`
+- ⚡ Edge caching & SSR on Vercel + Cloudflare Workers  
+- 🌐 SEO architecture and structured content pipelines  
+- 🔧 Scalable component systems with Headless UI  
+- 🧪 tRPC, Bun, PlanetScale, Payload CMS
 
 ---
 
