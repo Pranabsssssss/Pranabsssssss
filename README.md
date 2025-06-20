@@ -65,7 +65,7 @@ Currently serving as the **CEO of [SMG Interactive](https://smgin.me)**, I lead 
 
 ### 📬 Let’s Connect
 
-[![Email](https://img.shields.io/badge/ceo@smgin.me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ceo@smgin.me)
+[![Email](https://img.shields.io/badge/i@pranab.me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:i@pranab.me)
 [![Instagram](https://img.shields.io/badge/@pranabsaini.ig-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/pranabsaini.ig)
 [![Twitter](https://img.shields.io/badge/@pranabsaini1-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/pranabsaini1)
 
