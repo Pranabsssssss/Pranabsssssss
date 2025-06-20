@@ -27,19 +27,19 @@ Currently serving as the **CEO of [SMG Interactive](https://smgin.me)**, I lead 
 
 ### 🌐 Websites I’ve Built
 
-#### 🔷 [SMG Interactive – smgin.me](https://smgin.me)
+#### 🔷 [SMG Interactive](https://smgin.me)  
 Official digital identity for SMG Interactive. Built with performance-first architecture, identity-based branding, and a custom CMS.
 
-#### 🔷 [TechForge – tforge.me](https://tforge.me)
+#### 🔷 [TechForge](https://tforge.me)  
 A modern technology-focused platform designed for idea incubation and product acceleration.
 
-#### 🔷 [Academic Elitez – acelite.me](https://acelite.me)
+#### 🔷 [Academic Elitez](https://acelite.me)  
 An elegant educational portal for students and mentors with a clear UI, content-focused design, and optimized load time.
 
-#### 🔷 [My Personal Site – pranab.me](https://pranab.me)
+#### 🔷 [Personal Website](https://pranab.me)  
 Personal developer portfolio and blog — exploring topics like development, design thinking, and systems engineering.
 
-#### 🔷 [ASOSE RPVV, Sec-10](https://asose.me)
+#### 🔷 [ASOSE RPVV, Sec-10](https://asose.me)  
 An institutional website built with clarity, trust, and modern navigation — tailored for real users, not just visitors.
 
 ---
