@@ -28,26 +28,29 @@ Currently serving as the **CEO of [SMG Interactive](https://smgin.me)**, I lead 
 ### 🌐 Websites I’ve Built
 
 #### 🔷 [SMG Interactive](https://smgin.me)  
-Official digital identity for SMG Interactive. Built with performance-first architecture, identity-based branding, and a custom CMS.
+Official digital identity for SMG Interactive — a bold and scalable agency website with a powerful design system and CMS.
 
 #### 🔷 [TechForge](https://tforge.me)  
-A modern technology-focused platform designed for idea incubation and product acceleration.
+A modern tech-focused platform for product ideation and development resources.
 
 #### 🔷 [Academic Elitez](https://acelite.me)  
-An elegant educational portal for students and mentors with a clear UI, content-focused design, and optimized load time.
+A clean, purpose-built educational platform to streamline learning for schools and coaching hubs.
 
 #### 🔷 [Personal Website](https://pranab.me)  
-Personal developer portfolio and blog — exploring topics like development, design thinking, and systems engineering.
+My digital playground — portfolio, insights, experiments, and notes on web tech and design.
 
 #### 🔷 [ASOSE RPVV, Sec-10](https://asose.me)  
-An institutional website built with clarity, trust, and modern navigation — tailored for real users, not just visitors.
+School website designed with simplicity, performance, and accessibility in mind.
+
+#### 🔷 [Yuzone](https://yuzone.me)  
+Entertainment and media site built with modular CMS blocks, fast navigation, and bold UI to match the energy of the content.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranabsmg&show_icons=true&theme=onedark&hide_rank=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pranabsssssss&show_icons=true&theme=onedark&hide_rank=true" alt="GitHub Stats" />
 </p>
 
 ---
