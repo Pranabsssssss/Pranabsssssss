@@ -37,6 +37,7 @@ Currently serving as the **CEO of [SMG Interactive](https://smgin.me)**, I lead 
 - 🎯 [**TechForge**](https://tforge.me) – Technology platform for product incubation and dev tooling.
 - 🎓 [**Academic Elitez**](https://acelite.me) – Education portal focused on clarity and smart delivery.
 - 💻 [**Personal Website**](https://pranab.me) – Portfolio, blog, and project hub.
+- 🎬 [**SarvSambhav**](https://sarvsambhav.org) – Indian NGO for Human Welfare.
 - 🏫 [**ASOSE RPVV, Sec-10**](https://asose.me) – Institutional website built for simplicity and performance.
 - 🎬 [**Yuzone**](https://yuzone.me) – Entertainment/media portal with bold UI and CMS-backed architecture.
 
