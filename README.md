@@ -151,31 +151,31 @@
 <br>
 
 <a href="https://github.com/Pranabsssssss/Birbal-Sahni">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Pranabsssssss&repo=Birbal-Sahni&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e" />
+  <img width="400" src="https://github-readme-stats.zohan.tech/api/pin/?username=Pranabsssssss&repo=Birbal-Sahni&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Pranabsssssss/Matrix-Delhi">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Pranabsssssss&repo=Matrix-Delhi&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e" />
+  <img width="400" src="https://github-readme-stats.zohan.tech/api/pin/?username=Pranabsssssss&repo=Matrix-Delhi&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e" />
 </a>
 
 <br><br>
 
 <a href="https://github.com/Pranabsssssss/quantstock-full">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Pranabsssssss&repo=quantstock-full&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e" />
+  <img width="400" src="https://github-readme-stats.zohan.tech/api/pin/?username=Pranabsssssss&repo=quantstock-full&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Pranabsssssss/QuantStock">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Pranabsssssss&repo=QuantStock&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e" />
+  <img width="400" src="https://github-readme-stats.zohan.tech/api/pin/?username=Pranabsssssss&repo=QuantStock&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e" />
 </a>
 
 <br><br>
 
 <a href="https://github.com/Pranabsssssss/Forge-ESP-Code">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Pranabsssssss&repo=Forge-ESP-Code&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e" />
+  <img width="400" src="https://github-readme-stats.zohan.tech/api/pin/?username=Pranabsssssss&repo=Forge-ESP-Code&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Pranabsssssss/Focus-Schedule">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Pranabsssssss&repo=Focus-Schedule&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e" />
+  <img width="400" src="https://github-readme-stats.zohan.tech/api/pin/?username=Pranabsssssss&repo=Focus-Schedule&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e" />
 </a>
 
 </div>
@@ -192,7 +192,7 @@
 
 <br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pranabsssssss&theme=github-dark&hide_border=true&radius=16&bg_color=0d1117&line=58A6FF&point=FFFFFF&area=true&area_color=1f6feb" alt="Activity Graph" />
+<img width="100%" src="https://github-readme-activity-graph-psi.vercel.app/graph?username=Pranabsssssss&theme=github-dark&hide_border=true&radius=16&bg_color=0d1117&line=58A6FF&point=FFFFFF&area=true&area_color=1f6feb" alt="Activity Graph" />
 
 </div>
 
@@ -212,12 +212,12 @@
 <tr>
 <td align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Pranabsssssss&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e&ring_color=58a6ff&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.zohan.tech/api?username=Pranabsssssss&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e&ring_color=58a6ff&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
 </td>
 <td align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranabsssssss&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=Pranabsssssss&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" alt="Top Languages" />
 
 </td>
 </tr>
@@ -226,7 +226,7 @@
 <br>
 
 <!-- STREAK STATS -->
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Pranabsssssss&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=ffffff&sideLabels=58a6ff&dates=8b949e" alt="Streak Stats" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Pranabsssssss&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=ffffff&sideLabels=58a6ff&dates=8b949e" alt="Streak Stats" />
 
 </div>
 
@@ -270,14 +270,12 @@
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Pranabsssssss&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+<img src="https://github-trophies.vercel.app/?username=Pranabsssssss&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
 
 <br><br>
 
 <!-- VISITOR COUNTER -->
 <img src="https://komarev.com/ghpvc/?username=Pranabsssssss&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS" alt="Profile Views" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?logo=github&logoColor=white&label=Total+Stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FPranabsssssss&style=for-the-badge&color=0d1117&labelColor=161b22" alt="Total Stars" />
 
 </div>
 
