@@ -170,8 +170,8 @@
 
 <br><br>
 
-<a href="https://github.com/Pranabsssssss/Quantum-OS">
-  <img width="400" src="https://github-readme-stats.zohan.tech/api/pin/?username=Pranabsssssss&repo=Quantum-OS&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e" />
+<a href="https://github.com/Pranabsssssss/QuantumOS">
+  <img width="400" src="https://github-readme-stats.zohan.tech/api/pin/?username=Pranabsssssss&repo=QuantumOS&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Pranabsssssss/Focus-Schedule">
