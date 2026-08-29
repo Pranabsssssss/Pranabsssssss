@@ -34,16 +34,14 @@
 
 <!-- LIVE GITHUB STATS BADGES -->
 <a href="https://github.com/Pranabsssssss?tab=repositories">
-  <img src="https://img.shields.io/badge/dynamic/json?logo=github&logoColor=white&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FPranabsssssss&style=for-the-badge&color=0d1117&labelColor=161b22" alt="Repos"/>
+  <img src="https://img.shields.io/github/stars/Pranabsssssss?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars&color=0d1117&labelColor=161b22" alt="Stars"/>
 </a>
 &nbsp;
 <a href="https://github.com/Pranabsssssss?tab=followers">
-  <img src="https://img.shields.io/badge/dynamic/json?logo=github&logoColor=white&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FPranabsssssss&style=for-the-badge&color=0d1117&labelColor=161b22" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/Pranabsssssss?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=161b22" alt="Followers"/>
 </a>
 &nbsp;
-<a href="https://github.com/Pranabsssssss?tab=following">
-  <img src="https://img.shields.io/badge/dynamic/json?logo=github&logoColor=white&label=Following&query=%24.following&url=https%3A%2F%2Fapi.github.com%2Fusers%2FPranabsssssss&style=for-the-badge&color=0d1117&labelColor=161b22" alt="Following"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=Pranabsssssss&style=for-the-badge&color=0d1117&labelColor=161b22&label=VISITORS" alt="Visitors"/>
 
 <br><br>
 
@@ -283,27 +281,8 @@
 
 </div>
 
-<br>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 3D CONTRIBUTION GRAPH                                                          -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-## 🐍 &nbsp;Contribution Snake
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranabsssssss/Pranabsssssss/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranabsssssss/Pranabsssssss/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Pranabsssssss/Pranabsssssss/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
-<br>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- CONNECT SECTION                                                                -->
