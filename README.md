@@ -192,7 +192,7 @@
 
 <br>
 
-<img width="100%" src="https://github-readme-activity-graph-psi.vercel.app/graph?username=Pranabsssssss&theme=github-dark&hide_border=true&radius=16&bg_color=0d1117&line=58A6FF&point=FFFFFF&area=true&area_color=1f6feb" alt="Activity Graph" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranabsssssss&theme=github_dark" alt="Contribution Graph" />
 
 </div>
 
@@ -326,13 +326,7 @@
 
 **Let's build something amazing together. 🚀**
 
-<br>
-
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:162035,50:0f1923,100:0a0e17" />
-
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- END                                                                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:162035,50:0f1923,100:0d1117" />
